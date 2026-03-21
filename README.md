@@ -1,2 +1,3 @@
-# core-music-streaming-k3wz
-Music streaming service for modern development workflows
+# Core Music Streaming K3Wz
+
+A music streaming service for modern development workflows.
